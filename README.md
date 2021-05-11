@@ -4,7 +4,7 @@
   Ignite Trilha ReactJS (Rocketseat)
 </h2>
 
-## Desafios Resolvidos
+:rocket: ## Desafios Resolvidos
 
 ### Chapter I
 - [Desafio 01 - Conceitos do React](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-I-desafio-02)
