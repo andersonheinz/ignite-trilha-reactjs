@@ -7,6 +7,10 @@
 ## :rocket: Desafios Resolvidos
 
 ### Chapter I
+
 - [Desafio 01 - Conceitos do React](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-I-desafio-02)
 - [Desafio 02 - Componentizando a aplicação](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-I-desafio-02)
 
+### Chapter II
+
+- [Desafio 01 - Criando um Hook de carrinho de compras](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-II-desafio-01)
