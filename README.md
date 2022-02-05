@@ -18,4 +18,4 @@
 
 ### Chapter III
 
-- [Desafio 01 - Criando um projeto do zero](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-III-desafio-01)
+- [Desafio 01 - Criando um projeto do zero com Prismic CMS](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-III-desafio-01)
