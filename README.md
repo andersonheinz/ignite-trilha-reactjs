@@ -15,3 +15,7 @@
 
 - [Desafio 01 - Criando um Hook de carrinho de compras](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-II-desafio-01)
 - [Desafio 02 - Refactoring de classes e typescript](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-II-desafio-02)
+
+### Chapter III
+
+- [Desafio 01 - Criando um projeto do zero](https://github.com/andersonheinz/ignite-trilha-reactjs/tree/master/chapter-III-desafio-01)
